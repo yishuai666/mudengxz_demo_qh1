@@ -155,7 +155,7 @@ const doReset = () => {
     formRef.value.validate((isValid) => {
         if(isValid) {
             post('/api/auth/reset-password', {
-                email:  .email,
+                email: form.email,
                 code: form.code,
                 password: form.password
             }, () => {
