@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/mufengxz.iml" filepath="$PROJECT_DIR$/.idea/mufengxz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mufengxz-frontend/mufengxz-frontend.iml" filepath="$PROJECT_DIR$/mufengxz-frontend/mufengxz-frontend.iml" />
     </modules>
   </component>
 </project>
